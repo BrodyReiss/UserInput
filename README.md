@@ -29,7 +29,7 @@ Scanner console = new Scanner(System.in); //we can choose to name it whatever we
 The Scanner waits until the user presses Enter.  
 The value is then returned to the user.  
 
-Example 1: 
+### Example 1: 
 
 ```
 Scanner console = new Scanner(System.in);
@@ -41,7 +41,7 @@ System.out.println("Your name is: " + name);
 
 ```
 
-Example 2: 
+### Example 2: 
 
 Division of two integers.  
 
@@ -60,3 +60,10 @@ double output = (double) dividend / divisor
 System.out.println(dividend + " / " + divisor + " = " + output); 
 
 ```
+
+### Scanner Exercises
+
+Rewrite your exercises from the nested for loop exercies we did last class.
+1.  Adjusting the pattern of dots and numbers to accomodate any input.  
+2.  Adjusting the rectangle accept a user input width and height.  
+3.  Adjust the last exercise to accept a user input for size. 
