@@ -1,4 +1,4 @@
-# UserInput
+# :speech_balloon: UserInput
 How gain input from the user through the console. 
 
 Programs can be made more interactive by taking user input from the console.  
@@ -6,7 +6,7 @@ Programs can be made more interactive by taking user input from the console.
 `Scanner` is an object that can read input from many sources (files, console, databases, web sites)
 It uses `System.in` to communicate (versus `System.out`)
 
-## Using Scanner 
+## :fax: Using Scanner 
 
 ```
 import java.util.*; //this is an import statement to bring make the Scanner accessible within your code
