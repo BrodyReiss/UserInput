@@ -66,4 +66,4 @@ System.out.println(dividend + " / " + divisor + " = " + output);
 Rewrite your exercises from the nested for loop exercies we did last class.
 1.  Adjusting the pattern of dots and numbers to accomodate any input.  
 2.  Adjusting the rectangle accept a user input width and height.  
-3.  Adjust the last exercise to accept a user input for size. 
+3.  (if completed) Adjust the last exercise to accept a user input for size. 
